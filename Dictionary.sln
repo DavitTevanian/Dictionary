@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dictionary", "Dictionary\Dictionary.vcxproj", "{9C212061-6505-4C34-AABE-94E565794783}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DllDictionary", "DllDictionary\DllDictionary.vcxproj", "{748592F2-2579-4328-9A9D-4ABCB0CF7B22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C212061-6505-4C34-AABE-94E565794783}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9C212061-6505-4C34-AABE-94E565794783}.Debug|Win32.Build.0 = Debug|Win32
+		{9C212061-6505-4C34-AABE-94E565794783}.Release|Win32.ActiveCfg = Release|Win32
+		{9C212061-6505-4C34-AABE-94E565794783}.Release|Win32.Build.0 = Release|Win32
+		{748592F2-2579-4328-9A9D-4ABCB0CF7B22}.Debug|Win32.ActiveCfg = Debug|Win32
+		{748592F2-2579-4328-9A9D-4ABCB0CF7B22}.Debug|Win32.Build.0 = Debug|Win32
+		{748592F2-2579-4328-9A9D-4ABCB0CF7B22}.Release|Win32.ActiveCfg = Release|Win32
+		{748592F2-2579-4328-9A9D-4ABCB0CF7B22}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
