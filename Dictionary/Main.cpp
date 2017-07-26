@@ -6,4 +6,3 @@ int main(int argc, char * argv[])
     ApplicationDictionary dictionary;
     dictionary.Run(argc, cmdArgs);
 }
-// test Leo
